@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<DonVis>
+  <DonVi>
+    <MADONVI>01</MADONVI>
+    <TENDONVI>My Don Vi</TENDONVI>
+    <MASOTHUE>MST123131231</MASOTHUE>
+    <DIACHI>TP HCM</DIACHI>
+  </DonVi>
+  <DonVi>
+    <MADONVI>02</MADONVI>
+    <TENDONVI>Hasaghi</TENDONVI>
+    <MASOTHUE>WE12323</MASOTHUE>
+    <DIACHI>WE</DIACHI>
+  </DonVi>
+  <DonVi>
+    <MADONVI>03</MADONVI>
+    <TENDONVI>WE</TENDONVI>
+    <MASOTHUE>WE</MASOTHUE>
+    <DIACHI>WE</DIACHI>
+  </DonVi>
+  <DonVi>
+    <MADONVI>04</MADONVI>
+    <TENDONVI>QWEE</TENDONVI>
+    <MASOTHUE>EWQQ</MASOTHUE>
+    <DIACHI>QWEEE</DIACHI>
+  </DonVi>
+</DonVis>

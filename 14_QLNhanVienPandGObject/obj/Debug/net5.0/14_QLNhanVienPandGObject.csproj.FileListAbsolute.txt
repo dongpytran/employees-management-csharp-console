@@ -1,0 +1,11 @@
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGObject\bin\Debug\net5.0\14_QLNhanVienPandGObject.deps.json
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGObject\bin\Debug\net5.0\14_QLNhanVienPandGObject.dll
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGObject\bin\Debug\net5.0\ref\14_QLNhanVienPandGObject.dll
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGObject\bin\Debug\net5.0\14_QLNhanVienPandGObject.pdb
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGObject\obj\Debug\net5.0\14_QLNhanVienPandGObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGObject\obj\Debug\net5.0\14_QLNhanVienPandGObject.AssemblyInfoInputs.cache
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGObject\obj\Debug\net5.0\14_QLNhanVienPandGObject.AssemblyInfo.cs
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGObject\obj\Debug\net5.0\14_QLNhanVienPandGObject.csproj.CoreCompileInputs.cache
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGObject\obj\Debug\net5.0\14_QLNhanVienPandGObject.dll
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGObject\obj\Debug\net5.0\ref\14_QLNhanVienPandGObject.dll
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGObject\obj\Debug\net5.0\14_QLNhanVienPandGObject.pdb

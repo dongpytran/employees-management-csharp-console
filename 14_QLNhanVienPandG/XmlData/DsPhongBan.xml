@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<PhongBans>
+  <PhongBan>
+    <MAPHONGBAN>HCH</MAPHONGBAN>
+    <TENPHONGBAN>Hanh chinh</TENPHONGBAN>
+  </PhongBan>
+  <PhongBan>
+    <MAPHONGBAN>KDH</MAPHONGBAN>
+    <TENPHONGBAN>Kinh doanh</TENPHONGBAN>
+  </PhongBan>
+  <PhongBan>
+    <MAPHONGBAN>KTN</MAPHONGBAN>
+    <TENPHONGBAN>Ke toan</TENPHONGBAN>
+  </PhongBan>
+  <PhongBan>
+    <MAPHONGBAN>ITY</MAPHONGBAN>
+    <TENPHONGBAN>Information Technology</TENPHONGBAN>
+  </PhongBan>
+</PhongBans>

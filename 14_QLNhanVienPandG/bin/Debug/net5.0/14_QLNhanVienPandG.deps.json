@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "14_QLNhanVienPandG/1.0.0": {
+        "dependencies": {
+          "14_QLNhanVienPandGListObject": "1.0.0",
+          "14_QLNhanVienPandGObject": "1.0.0"
+        },
+        "runtime": {
+          "14_QLNhanVienPandG.dll": {}
+        }
+      },
+      "14_QLNhanVienPandGListObject/1.0.0": {
+        "dependencies": {
+          "14_QLNhanVienPandGObject": "1.0.0"
+        },
+        "runtime": {
+          "14_QLNhanVienPandGListObject.dll": {}
+        }
+      },
+      "14_QLNhanVienPandGObject/1.0.0": {
+        "runtime": {
+          "14_QLNhanVienPandGObject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "14_QLNhanVienPandG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "14_QLNhanVienPandGListObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "14_QLNhanVienPandGObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PY\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PY\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGListObject\bin\Debug\net5.0\14_QLNhanVienPandGListObject.deps.json
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGListObject\bin\Debug\net5.0\14_QLNhanVienPandGListObject.dll
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGListObject\bin\Debug\net5.0\ref\14_QLNhanVienPandGListObject.dll
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGListObject\bin\Debug\net5.0\14_QLNhanVienPandGListObject.pdb
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGListObject\bin\Debug\net5.0\14_QLNhanVienPandGObject.dll
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGListObject\bin\Debug\net5.0\14_QLNhanVienPandGObject.pdb
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGListObject\obj\Debug\net5.0\14_QLNhanVienPandGListObject.csprojAssemblyReference.cache
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGListObject\obj\Debug\net5.0\14_QLNhanVienPandGListObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGListObject\obj\Debug\net5.0\14_QLNhanVienPandGListObject.AssemblyInfoInputs.cache
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGListObject\obj\Debug\net5.0\14_QLNhanVienPandGListObject.AssemblyInfo.cs
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGListObject\obj\Debug\net5.0\14_QLNhanVienPandGListObject.csproj.CoreCompileInputs.cache
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGListObject\obj\Debug\net5.0\14_QLNhanVienPandGListObject.csproj.CopyComplete
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGListObject\obj\Debug\net5.0\14_QLNhanVienPandGListObject.dll
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGListObject\obj\Debug\net5.0\ref\14_QLNhanVienPandGListObject.dll
+D:\BT LON\C#\14_QLNhanVienPandG\14_QLNhanVienPandGListObject\obj\Debug\net5.0\14_QLNhanVienPandGListObject.pdb
